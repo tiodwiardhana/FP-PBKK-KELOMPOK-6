@@ -4,7 +4,7 @@
 | :------------------       | :--------------|
 | Tio Dwi Ardhana           | 5025201099     |
 | Muhammad Ismail           | 5025201197     |
-| Julio Geraldi             | 502520         |
+| Julio Geraldi             | 5025201079     |
 
 
 
